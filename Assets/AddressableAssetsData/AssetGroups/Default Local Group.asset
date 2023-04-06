@@ -16,7 +16,39 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 0cb12a4a23a54d040ac4f7bb6c9917fa
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 418d3d40445cee84297449ff9c67c231
+    m_Address: ArabManEmirati
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7d95f35769c02442bcd7ec136bb84be
+    m_Address: ArabManSaudi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 096a5bfb3ed797941a93c606e775cafa
+    m_Address: Westernfem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dda11d40cb75df24a850d02f9934a235
+    m_Address: arabfem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dcdf4345950ba741aeb2c5a97bb3b30
+    m_Address: BusinessManNewSpeaker 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e3f2910dcb0ec149bf9e53bba44968e
+    m_Address: BusinessMan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87143b6b19ff8fb4889c21f51157dc08
+    m_Address: Prototype
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f46584b9e126464db820b0bc184033d
+    m_Address: WorldSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:
