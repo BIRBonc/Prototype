@@ -29,8 +29,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6931913861206398530}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0000098944, z: 0}
-  m_LocalScale: {x: 281.4838, y: 84.484, z: 317.98087}
+  m_LocalPosition: {x: 0, y: 0, z: -827.8094}
+  m_LocalScale: {x: 2222.331, y: 361.4648, z: 3203.306}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6931913862665211996}
@@ -111,9 +111,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df780e0fc6f8f8041b03b2a4083ec312, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Prototype
+  sceneName: Hajj
   sceneAsset:
-    m_AssetGUID: 87143b6b19ff8fb4889c21f51157dc08
+    m_AssetGUID: 71d8efde1b9038c4ca6043dcabb9e339
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
@@ -190,7 +190,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6931913862665211999}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.31815875, y: 1.8964802, z: -3.1410332}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -452,6 +452,14 @@ PrefabInstance:
     - target: {fileID: 7577381710627000937, guid: b095803f23b2a034e88fe2e525238617, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8144801192106308308, guid: b095803f23b2a034e88fe2e525238617, type: 3}
+      propertyPath: m_Size
+      value: 0.8923859
+      objectReference: {fileID: 0}
+    - target: {fileID: 8144801192106308308, guid: b095803f23b2a034e88fe2e525238617, type: 3}
+      propertyPath: m_Value
+      value: 0.5000004
       objectReference: {fileID: 0}
     - target: {fileID: 9037882351984053623, guid: b095803f23b2a034e88fe2e525238617, type: 3}
       propertyPath: m_RootOrder

@@ -410,6 +410,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+  - {fileID: 2100000, guid: 81e83cfb4ba146e45ad4b3ee2f124fa8, type: 2}
   - {fileID: 2100000, guid: ea70e350394a3e841aae631a5db80027, type: 2}
   - {fileID: 2100000, guid: 21b3e338572363f4089581020ebb0ba9, type: 2}
   m_StaticBatchInfo:
@@ -1236,15 +1237,15 @@ LODGroup:
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.001
+  - screenRelativeHeight: 0.1
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 8276974519189248142}
-  - screenRelativeHeight: -0
+  - screenRelativeHeight: 0.05
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2950186981923133150}
-  - screenRelativeHeight: 0.01
+  - screenRelativeHeight: 0.0028841496
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 4396467894672710417}

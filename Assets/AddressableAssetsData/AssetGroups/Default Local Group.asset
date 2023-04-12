@@ -49,6 +49,10 @@ MonoBehaviour:
     m_Address: WorldSettings
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 71d8efde1b9038c4ca6043dcabb9e339
+    m_Address: Hajj
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:
