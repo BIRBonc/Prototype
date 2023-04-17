@@ -53,6 +53,26 @@ MonoBehaviour:
     m_Address: Hajj
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 51625f900f2bb2c4d887edafb5801709
+    m_Address: AmirateWhiteFEm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf6e01e304480674180e98fff4c315f5
+    m_Address: desert
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e24030ce8feb53e4c884c3be175f9e18
+    m_Address: mountain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aba2157da28e0bd419a867e847441c02
+    m_Address: mounain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ae8c1e8b3c8e6b44a2365c2d3d68f6f
+    m_Address: SignageBig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d00becaeafae8a343b3a317a871d1a01, type: 2}
   m_SchemaSet:
