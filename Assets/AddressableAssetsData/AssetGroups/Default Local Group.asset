@@ -53,7 +53,7 @@ MonoBehaviour:
     m_Address: Hajj
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 51625f900f2bb2c4d887edafb5801709
+  - m_GUID: e88837a03a5106d40b00688f4e379735
     m_Address: AmirateWhiteFEm
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -71,6 +71,18 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 5ae8c1e8b3c8e6b44a2365c2d3d68f6f
     m_Address: SignageBig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 965f735f80102764cbcc7f79ed263ba5
+    m_Address: kaaba
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0570abf48fb051a418b58d16403b9681
+    m_Address: kaaba cloth v2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf3a68323fb49954ba3eb8d579a0daa3
+    m_Address: arafat
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
